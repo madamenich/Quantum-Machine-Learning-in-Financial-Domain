@@ -1,1 +1,1 @@
-# quantum-for-financial-application
+# Quantum Computing in Financial Application
